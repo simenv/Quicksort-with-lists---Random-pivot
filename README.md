@@ -9,7 +9,7 @@ of the lowest valued string, and so on."
 
 The character array should look like this: char String_array[] = {“one\0two\0three\0”};
 
-I've used a struct to hold all information about each word in the string. 
+I've used structs to store the information about each word in the string. 
 The struct looks like this:
 
 struct word{
