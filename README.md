@@ -1,5 +1,5 @@
 # Quicksort-with-lists---Random-pivot
-This is a school project with the following requirements:
+This is a first year university project with the following requirements:
 
 "Modify Quicksort to sort a sequence of variable-length strings stored 
 one after the other in a character array, with a second array (storing 
